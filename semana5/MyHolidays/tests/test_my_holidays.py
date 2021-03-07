@@ -2,7 +2,6 @@ from MyHolidays.myholidays.holidays import MyCalendar
 from datetime import date
 import pytest
 
-
 class TestMyCalendar:
     def test_class_declared(self):
         """
